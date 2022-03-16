@@ -1,6 +1,6 @@
 # ERC 721 AND ERC20 TOKENS
 ERC721 Contract address: 0x224C36554e4EFe7959549cAEaF8FE51EB8Ba1628
-ERC721 Rinkeby Etherscan address:
+ERC721 Rinkeby Etherscan address: https://rinkeby.etherscan.io/address/0x224C36554e4EFe7959549cAEaF8FE51EB8Ba1628#code
 IPFS link for token1:
 IPFS link for token2:
 Opensea URL: https://testnets.opensea.io/collection/maureennft

@@ -1,9 +1,15 @@
 # ERC 721 AND ERC20 TOKENS
+
 ERC721 Contract address: 0x224C36554e4EFe7959549cAEaF8FE51EB8Ba1628
+
 ERC721 Rinkeby Etherscan address: https://rinkeby.etherscan.io/address/0x224C36554e4EFe7959549cAEaF8FE51EB8Ba1628#code
-IPFS link for token1:
-IPFS link for token2:
+
+IPFS link for token1: https://gateway.pinata.cloud/ipfs/QmZ8AEbmp8KMJrGTP1ZMtwzSFUXiLK3i1xeSBFAFUsDhcA
+
+IPFS link for token2: https://gateway.pinata.cloud/ipfs/QmXLrMXuNKUYVqrtauJM2BCqHgf3uccARcQpetNy5sKPuZ
+
 Opensea URL: https://testnets.opensea.io/collection/maureennft
+
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.

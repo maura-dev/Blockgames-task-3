@@ -1,5 +1,4 @@
-# ERC 721 AND ERC20 TOKENS
-
+# ERC 721 TOKEN(Maureen NFT)
 ERC721 Contract address: 0x224C36554e4EFe7959549cAEaF8FE51EB8Ba1628
 
 ERC721 Rinkeby Etherscan address: https://rinkeby.etherscan.io/address/0x224C36554e4EFe7959549cAEaF8FE51EB8Ba1628#code
@@ -9,6 +8,12 @@ IPFS link for token1: https://ipfs.io/ipfs/QmZ8AEbmp8KMJrGTP1ZMtwzSFUXiLK3i1xeSB
 IPFS link for token2: https://ipfs.io/ipfs/QmXLrMXuNKUYVqrtauJM2BCqHgf3uccARcQpetNy5sKPuZ
 
 Opensea URL: https://testnets.opensea.io/collection/maureennft
+
+# ERC20 TOKENS(MauraDevToken MDT)
+
+ERC20 Contract Address: 0x5990d1D81B7FD027b43AD0ECFf64367F93C321FA
+
+ERC20 Rinkeby Etherscan address: https://rinkeby.etherscan.io/address/0x5990d1D81B7FD027b43AD0ECFf64367F93C321FA#code
 
 # Basic Sample Hardhat Project
 
